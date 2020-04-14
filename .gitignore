@@ -1,0 +1,7 @@
+/target/
+.idea/compiler.xml
+*.xml
+*.prefs
+.settings/org.eclipse.jdt.core.prefs
+stock_transationsbyaccountholder.json
+.settings/org.eclipse.jdt.core.prefs
