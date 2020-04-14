@@ -24,9 +24,6 @@ public class RunTime {
 			
 			FileHandling.createHTMLFile(fileName, information);
 			FileHandling.htmlToPDF(fileName);
-			
-			System.out.println(counter);
-			counter++;
 		}
 	}
 }
