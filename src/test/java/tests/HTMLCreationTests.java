@@ -32,10 +32,5 @@ class HTMLCreationTests {
 	
 		fail();
 	}
-	
-	@Test
-	void testHTMLString() {
-		
-	}
 
 }
